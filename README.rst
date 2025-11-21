@@ -1,4 +1,7 @@
-# interlaced
+
+==========
+interlaced
+==========
 
 .. image:: docs/source/img/interlaced.png 
    :width: 480px
